@@ -1,0 +1,49 @@
+.home-page {
+  background-color: #eeeeee;
+  padding-left: 40px;
+  padding-top: 20px;
+  height: max-content;
+  display: grid;
+}
+
+.home-buttons {
+  margin-left: 400px;
+}
+
+.home-leftbtn {
+  font-size: 15px;
+  border: none;
+  outline: none;
+  padding: 10px 10px;
+  margin-right: 25px;
+}
+
+.home-leftbtn:active:focus {
+  background-color: red;
+  color: white;
+}
+
+.home-btn {
+  font-size: 15px;
+  border: none;
+  outline: none;
+  padding: 10px 10px;
+  margin-right: 25px;
+}
+
+.home-btn:active:focus {
+  background-color: red;
+  color: white;
+}
+
+.home-rightbtn {
+  font-size: 15px;
+  padding: 10px 10px;
+  margin-right: 25px;
+  border: none;
+  outline: none;
+}
+.home-rightbtn:active:focus {
+  background-color: red;
+  color: white;
+}

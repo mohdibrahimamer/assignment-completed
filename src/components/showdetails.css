@@ -1,0 +1,240 @@
+.details-data {
+  width: 1140px;
+  height: max-content;
+  border-radius: 20px;
+  background-color: white;
+
+  margin-bottom: 35px;
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.company-name {
+  padding-top: 60px;
+  margin-left: 50px;
+}
+
+.details-contacts {
+  margin-left: 300px;
+  margin-top: -30px;
+}
+
+.details-contacts > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+
+.details-contacts > p {
+  font-size: 15px;
+  margin-top: 5px;
+  text-transform: capitalize;
+}
+
+.details-cities {
+  margin-left: 550px;
+  margin-top: -40px;
+}
+
+.details-cities > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+
+.details-cities > p {
+  font-size: 15px;
+  margin-top: 5px;
+  text-transform: capitalize;
+}
+
+.details-states {
+  margin-left: 750px;
+  margin-top: -40px;
+}
+
+.details-states > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+
+.details-states > p {
+  font-size: 15px;
+  margin-top: 5px;
+  text-transform: capitalize;
+}
+
+.btn-title {
+  position: absolute;
+  margin-left: 900px;
+  margin-top: -35px;
+  width: 120px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: capitalize;
+
+  text-align: center;
+  cursor: pointer;
+}
+
+.show-desc {
+  margin-left: 110px;
+  margin-top: 30px;
+}
+
+.show-desc > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-desc > p {
+  font-size: 15px;
+
+  padding-top: 15px;
+}
+
+.show-contacts {
+  margin-left: 110px;
+  margin-top: 15px;
+}
+
+.show-contacts > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-contacts > p {
+  font-size: 15px;
+
+  padding-top: 15px;
+}
+
+.show-emails {
+  margin-left: 110px;
+  margin-top: 15px;
+}
+
+.show-emails > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-emails > p {
+  font-size: 15px;
+
+  padding-top: 15px;
+}
+
+.show-phones {
+  margin-left: 110px;
+  margin-top: 15px;
+}
+
+.show-phones > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-phones > p {
+  font-size: 15px;
+
+  padding-top: 15px;
+}
+
+.show-address {
+  position: absolute;
+
+  left: 550px;
+  margin-top: -190px;
+}
+
+.show-address > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-address > p {
+  font-size: 15px;
+  width: 500px;
+
+  padding-top: 10px;
+}
+
+.show-city {
+  position: absolute;
+
+  left: 550px;
+  margin-top: -130px;
+}
+
+.show-city > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-city > p {
+  font-size: 15px;
+  width: 500px;
+
+  padding-top: 10px;
+}
+
+.show-state {
+  position: absolute;
+
+  left: 550px;
+  margin-top: -60px;
+}
+
+.show-state > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-state > p {
+  font-size: 15px;
+  width: 500px;
+
+  padding-top: 15px;
+}
+
+.show-country {
+  position: absolute;
+  left: 750px;
+  margin-top: -130px;
+}
+
+.show-country > h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: monospace;
+}
+
+.show-country > p {
+  font-size: 15px;
+  width: 500px;
+
+  padding-top: 15px;
+}
